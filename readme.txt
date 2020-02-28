@@ -3,4 +3,8 @@ Git is free software.
 Git is a good tool.
 Git has a mutable index called stage.
 Creating a new branch is quick.
-Creating a new branch & quick11111.
+<<<<<<< HEAD
+Creating a new branch and quick11111.
+=======
+Creating a new branch and quick.
+>>>>>>> feature1
